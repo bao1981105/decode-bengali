@@ -2,6 +2,7 @@
 #bengaliai-cv19/
 #myenv/
 #.DS_Store
+!/EfficientNet
 !.gitignore
 !.py
 !.ipynb
