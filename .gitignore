@@ -1,4 +1,7 @@
-bengaliai-cv19/
-myenv/
-.DS_Store
-
+*
+#bengaliai-cv19/
+#myenv/
+#.DS_Store
+!.gitignore
+!.py
+!.ipynb
