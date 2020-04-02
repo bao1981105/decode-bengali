@@ -8,7 +8,7 @@ eda.ipynb: summary statistics for the dataset.
 dense121.ipynb: training code for our dense121 model.    
 EfficientNet folder: training code for our EfficientNet model.      
 
-Blog post:
+Blog post:    
 https://bao1981105.github.io/initial-post/       
 https://bao1981105.github.io/midpost/      
 https://bao1981105.github.io/finalpost/    
